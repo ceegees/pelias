@@ -1,2 +1,4 @@
 projects/*/data
 .DS_Store
+.idea
+.vscode
